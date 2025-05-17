@@ -411,6 +411,9 @@ position: relative;
     .Header__right{
         display: none;
     }
+    .Header__options{
+        gap: 20px;
+    }
     .hotel1__desc,.hotel2__desc,.hotel3__desc,.hotel4__desc{
         display: none;
     }
@@ -443,7 +446,7 @@ position: relative;
         width: 100%;
     }
     .card3{
-        
+    
     }
     .card3 img{
         width: 100px;
@@ -451,7 +454,7 @@ position: relative;
 
     }
     .holiday__img{
-        gap: 10px;
+        gap: 9px;
     }
     
 }
