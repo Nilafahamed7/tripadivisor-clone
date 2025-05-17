@@ -412,7 +412,7 @@ position: relative;
         display: none;
     }
     .Header__options{
-        gap: 20px;
+        gap: 10px;
     }
     .hotel1__desc,.hotel2__desc,.hotel3__desc,.hotel4__desc{
         display: none;
@@ -455,6 +455,10 @@ position: relative;
     }
     .holiday__img{
         gap: 9px;
+    }
+
+    .explore__title{
+        margin-left: 10px;
     }
     
 }
